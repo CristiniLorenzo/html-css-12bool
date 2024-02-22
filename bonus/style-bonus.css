@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+}
+
+.box {
+    border: 1px solid #fff;
+    height: 141.5px;
+}
+.red{
+    background-color: #F62B25;
+}
+.brown{
+    background-color: #7E3F16;
+}
+.black{
+    background-color: #000000;
+}
+.pink{
+    background-color: #FCC376;
+}
+.blue{
+    background-color: #4554C9;
+}
+.gold{
+    background-color: #FEDD50;
+}
+.pink-t{
+    background-color: #F3C69F;
+}
+.red-t{
+    background-color: #FE0002;
+}
+.white{
+    background-color: #fff;
+}
